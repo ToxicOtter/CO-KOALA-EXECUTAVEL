@@ -12,3 +12,5 @@ Obrigado por jogar! Sugestão entre em contato: luan.lima.lopes16@gmail.com
 This game consists in kill the enemy koala using koalas as weapons. Your main bullet have a quick load, the second 
 delays some seconds to load, although, it causes poison damage. To change the bullet you can click on your chosen or
 change it using 1 and 2 keywords.
+
+Thank you for play! For suggestions contact: luan.lima.lopes16@gmail.com
